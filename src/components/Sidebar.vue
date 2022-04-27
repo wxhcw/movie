@@ -43,12 +43,12 @@ export default {
           menuCode: "1",
           menuName: "用户管理",
           menuPath: "/mgt-user",
-          icon: "ios-apps",
+          icon: "md-person",
         },
         {
           menuCode: "2",
           menuName: "电影",
-          icon: "ios-stats",
+          icon: "md-videocam",
           children: [
             {
               menuCode: "2-1",
@@ -70,7 +70,7 @@ export default {
         {
           menuCode: "3",
           menuName: "影院",
-          icon: "logo-buffer",
+          icon: "md-closed-captioning",
           children: [
             {
               menuCode: "3-1",

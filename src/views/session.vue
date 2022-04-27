@@ -1,5 +1,5 @@
 <template>
     <div class="mgt-session">
-        <h1>msession</h1>
+        <h1>session</h1>
     </div>
 </template>
